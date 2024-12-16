@@ -1,0 +1,5 @@
+{
+  "jest.pathToJest": "**/ch1/node_modules/.bin/jest",
+  "jest.pathToConfig": "**/ch1/jest.config.js",
+  "jest.showCoverageOnLoad": true
+}
